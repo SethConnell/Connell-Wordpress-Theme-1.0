@@ -1,0 +1,46 @@
+/*
+Theme Name: Connell Theme
+Author: Seth J. Connell
+Description: An essentialist template for Wordpress.
+Version: 1.0
+*/
+
+
+@media screen and (min-width: 480px) {
+    .content{
+        width: 100%;
+        margin: auto;
+    }
+}
+
+
+#title {
+    color: #57BC90;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: auto;
+}
+
+#desc {
+    color: #77C9D4;
+    font-size: 12px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#header{}
+
+.content{
+    width: 50%;
+    margin: auto;
+}
+
+.subtitles {
+	text-transform: uppercase;
+	color: #A5A5AF;
+}
+
+.article {
+	font-color: blue;
+}
